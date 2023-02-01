@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-top{
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
+
+
+.nav-list{
+  padding: 15px 0;
+  list-style: none;
+  border-top: solid 1px;
+  border-bottom: solid 1px;
+  text-align: center;
+}
+
+.nav-list-item{
+  display: inline-block;
+  margin: 15px 20px;
+
+
+
+
+}
+
